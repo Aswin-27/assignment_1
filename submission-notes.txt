@@ -1,0 +1,9 @@
+Assignment 1 submission notes:
+- Full-stack registration/login + student profile app
+- Backend: Node.js + Express
+- Frontend: HTML/CSS/JavaScript
+- Database: PostgreSQL with stored procedures and triggers
+- OOP: Person -> Student with abstraction, encapsulation, inheritance, polymorphism
+- AWS deployment target: RDS + EC2 + S3/CloudFront
+- Run locally: cd backend && npm install && npm run dev
+- Deploy on EC2: use deploy-aws.sh or pm2
